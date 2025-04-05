@@ -53,7 +53,7 @@ int main()
         printf("%d\n",sum);
         printf("%.1f",sum/100.0);
     
-    }
+    
     
     /*Vincent Bergengren 5 april 2025*/
    
